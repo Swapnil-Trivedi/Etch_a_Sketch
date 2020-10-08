@@ -18,7 +18,7 @@ squares.forEach((square)=>{
         this.style.backgroundColor = "hsl(0,0%,0%)";
     });
 });
-
+// reset function
 function reset()
 {
 squares.forEach((square)=>{
