@@ -19,5 +19,12 @@ squares.forEach((square)=>{
     });
 });
 
+function reset()
+{
+squares.forEach((square)=>{
+    square.style.backgroundColor="gainsboro";
+});
+}
+
 
 
