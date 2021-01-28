@@ -19,6 +19,7 @@ squares.forEach((square)=>{
     });
 });
 // reset function
+//Added another comment for simplification
 function reset()
 {
 squares.forEach((square)=>{
